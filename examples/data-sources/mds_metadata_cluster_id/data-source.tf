@@ -1,0 +1,1 @@
+data "confluent-platform_mds_metadata_cluster_id" "current" {}
